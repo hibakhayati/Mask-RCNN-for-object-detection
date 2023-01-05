@@ -1,8 +1,8 @@
 # Mask R-CNN for Object Detection and Segmentation
 
-This is an implementation of [Mask R-CNN](https://arxiv.org/abs/1703.06870) on Python 3, Keras, and TensorFlow. The model generates bounding boxes and segmentation masks for each instance of an object in the image. It's based on Feature Pyramid Network (FPN) and a ResNet101 backbone.
+In this project we will present results and source code to detect helicopters using RCNN and the pretrained COCO dataset. The implementation of this project allows us to achieve our main goal which is detecting any kind of helicopter.
 
-![Instance Segmentation Sample](assets/street.png)
+![Instance Segmentation Sample](assets/helicopters.jpg)
 
 The repository includes:
 * Source code of Mask R-CNN built on FPN and ResNet101.
