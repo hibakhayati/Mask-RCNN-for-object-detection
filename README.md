@@ -1,8 +1,8 @@
 # Mask R-CNN for Object Detection and Segmentation
 
-In this project we will present results and source code to detect helicopters using RCNN and the pretrained COCO dataset. The implementation of this project allows us to achieve our main goal which is detecting any kind of helicopter.
+In this project we will present results and source code to detect Light bulbs using RCNN and the pretrained COCO dataset. The implementation of this project allows us to achieve our main goal which is detecting any kind of light bulb.
 
-![Instance Segmentation Sample](assets/helicopters.jpg)
+![Instance Segmentation Sample](assets/multipacks-hero.jpg)
 
 ## Installation
 From the [Releases page](https://github.com/matterport/Mask_RCNN/releases) page:
